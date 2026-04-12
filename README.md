@@ -1,16 +1,41 @@
-## Hi there 👋
+Hi, I'm Shiva 👋
 
-<!--
-**spal13138-eng/spal13138-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend developer currently learning FastAPI, JWT authentication, SQLAlchemy, and building REST APIs.
 
-Here are some ideas to get you started:
+ 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* FastAPI
+* SQLAlchemy
+* PostgreSQL
+* JWT Authentication
+* Git & GitHub
+* Docker (Learning)
+* Cloud Computing (Learning)
+
+📚 Currently Learning
+
+* Backend Development
+* FastAPI Projects
+* Database Design
+* Cloud Computing
+* Deployment
+
+ 🔥 Projects
+
+# Todo API
+
+A FastAPI backend project with:
+
+* User authentication
+* JWT login system
+* Password hashing
+* User-specific todo tasks
+* Database integration
+
+📈 GitHub Stats
+
+ 📫 Connect With Me
+
+* LinkedIn
+* GitHub
