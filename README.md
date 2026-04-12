@@ -4,14 +4,9 @@ I'm a backend developer currently learning FastAPI, JWT authentication, SQLAlche
 
  🚀 Tech Stack
 
-* Python
-* FastAPI
-* SQLAlchemy
-* PostgreSQL
-* JWT Authentication
-* Git & GitHub
-* Docker (Learning)
-* Cloud Computing (Learning)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,postgres,mysql,git,github,vscode" />
+</p>
 
 📚 Currently Learning
 
