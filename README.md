@@ -1,11 +1,13 @@
 Hi, I'm Shiva 👋
 
-I'm a backend developer currently learning FastAPI, JWT authentication, SQLAlchemy, and building REST APIs.
+🚀 Backend Developer | FastAPI | Django | Python | SQLALCHEMY | POSTGRESQL| DSA | C++
+
+I build REST APIs with authentication, database integration, and real-world backend logic.
 
  🚀 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,postgres,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mysql,git,github,vscode" />
 </p>
 
 📚 Currently Learning
@@ -16,9 +18,9 @@ I'm a backend developer currently learning FastAPI, JWT authentication, SQLAlche
 * Cloud Computing
 * Deployment
 
- 🔥 Projects
-
-# Todo API
+ 🔥 Projects 
+ 
+ 🔗 [Todo API](https://github.com/shivapal13/fastapi-todo-api)
 
 A FastAPI backend project with:
 
@@ -27,8 +29,15 @@ A FastAPI backend project with:
 * Password hashing
 * User-specific todo tasks
 * Database integration
+  
+📫 Connect With Me
 
- 📫 Connect With Me
-
-* LinkedIn
-* GitHub
+<p>
+  <a href="https://linkedin.com/in/shivapal13">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="28" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:spal13138@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="28" />
+  </a>
+</p>
