@@ -2,12 +2,12 @@ Hi, I'm Shiva 👋
 
 🚀 Backend Developer | FastAPI | Django | Python | SQLALCHEMY | POSTGRESQL| DSA | C++
 
-I build REST APIs with authentication, database integration, and real-world backend logic.
+I build scalable REST APIs using FastAPI with authentication, database integration, testing, deployment, and real-world backend logic.
 
  🚀 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,html,css,js,postgres,mysql,git,github,docker,vscode" />
 </p>
 
 📚 Currently Learning
