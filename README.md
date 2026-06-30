@@ -10,7 +10,7 @@ I build scalable REST APIs using FastAPI with authentication, database integrati
  🚀 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,html,css,js,postgres,mysql,git,github,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,html,css,js,ts,nestjs,postgres,mysql,git,github,docker,vscode" />
 </p>
 
 📚 Currently Learning
