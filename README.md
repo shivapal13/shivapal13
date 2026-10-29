@@ -1,5 +1,6 @@
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Shiva+Pal" /> </p> <p align="center"> Backend Developer focused on API Design, Database Architecture &amp; System Design </p> <br>
-👋 About Me
+
+<h1 align="left">👋 About Me</h1>
 
 Backend developer focused on building scalable and reliable backend systems. I care about good API design, solid database structure, and writing code that's easy for others to understand and work with.
 
